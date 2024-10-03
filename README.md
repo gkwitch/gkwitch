@@ -6,8 +6,8 @@
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gkwitch&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkwitch&layout=compact&theme=radical" height="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gkwitch&show_icons=true&theme=radical" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkwitch&layout=compact&theme=radical" height="200px"/>
 
 </div>
 
