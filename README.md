@@ -7,10 +7,10 @@
 <div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gkwitch&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkwitch&layout=compact&theme=radical" height="300px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkwitch&layout=compact&theme=radical" height="50%"/>
 
 </div>
 
 <div style="display: inline_block"><br>
-<img aling="center" width="40px" height="50px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
+<img aling="center" width="40px" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
 </div>
