@@ -1,7 +1,7 @@
 ## Hello World, Gleicy Here👋
 
-- ✨ Em experiência para trabalho
-- 📗 Estudante Full-Stack
+- ✨ Em experiência para estágio
+- 📗 Estudante de Sistemas de Informação
 - 😄 Ela/Dela
 
 <div>
